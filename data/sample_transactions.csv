@@ -1,0 +1,149 @@
+date,description,amount,category,type
+2025-07-01,Rent,-1500.00,Rent,Expense
+2025-07-02,Internet,-69.99,Utilities,Expense
+2025-07-02,Electric bill,-132.47,Utilities,Expense
+2025-07-03,Grocery run,-78.26,Food,Expense
+2025-07-04,Paycheck,3265.18,Salary,Income
+2025-07-05,Coffee,-6.45,Food,Expense
+2025-07-06,Gas,-41.72,Transport,Expense
+2025-07-07,Lunch,-13.84,Food,Expense
+2025-07-09,Grocery run,-64.13,Food,Expense
+2025-07-10,Streaming subscription,-15.99,Entertainment,Expense
+2025-07-11,Phone bill,-55.00,Utilities,Expense
+2025-07-12,Takeout,-24.61,Food,Expense
+2025-07-13,Gas,-38.19,Transport,Expense
+2025-07-15,Gym membership,-29.99,Entertainment,Expense
+2025-07-16,Grocery run,-92.77,Food,Expense
+2025-07-18,Paycheck,3228.44,Salary,Income
+2025-07-19,Movie night,-18.50,Entertainment,Expense
+2025-07-20,Gas,-43.08,Transport,Expense
+2025-07-22,Restaurant,-34.92,Food,Expense
+2025-07-23,Household supplies,-26.88,Shopping,Expense
+2025-07-24,Grocery run,-71.09,Food,Expense
+2025-07-26,Clothes,-67.40,Shopping,Expense
+2025-07-27,Gas,-39.55,Transport,Expense
+2025-07-28,Parking,-9.00,Transport,Expense
+2025-07-30,Grocery run,-83.21,Food,Expense
+2025-08-01,Rent,-1500.00,Rent,Expense
+2025-08-01,Paycheck,3294.07,Salary,Income
+2025-08-02,Internet,-69.99,Utilities,Expense
+2025-08-03,Grocery run,-88.64,Food,Expense
+2025-08-03,Gas,-44.10,Transport,Expense
+2025-08-05,Coffee,-5.95,Food,Expense
+2025-08-06,Electric bill,-148.33,Utilities,Expense
+2025-08-07,Lunch,-12.47,Food,Expense
+2025-08-09,Streaming subscription,-15.99,Entertainment,Expense
+2025-08-10,Grocery run,-63.58,Food,Expense
+2025-08-10,Gas,-39.02,Transport,Expense
+2025-08-12,Pharmacy,-18.37,Other,Expense
+2025-08-13,Restaurant,-41.26,Food,Expense
+2025-08-15,Paycheck,3241.62,Salary,Income
+2025-08-16,Weekend outing,-28.75,Entertainment,Expense
+2025-08-17,Gas,-42.66,Transport,Expense
+2025-08-18,Grocery run,-96.12,Food,Expense
+2025-08-20,Car wash,-12.00,Transport,Expense
+2025-08-21,Online shopping,-54.19,Shopping,Expense
+2025-08-22,Phone bill,-55.00,Utilities,Expense
+2025-08-24,Grocery run,-72.40,Food,Expense
+2025-08-24,Gas,-40.91,Transport,Expense
+2025-08-26,Takeout,-22.18,Food,Expense
+2025-08-29,Paycheck,3312.55,Salary,Income
+2025-08-30,Concert tickets,-85.00,Entertainment,Expense
+2025-08-31,Grocery run,-77.63,Food,Expense
+2025-09-01,Rent,-1500.00,Rent,Expense
+2025-09-02,Internet,-69.99,Utilities,Expense
+2025-09-03,Grocery run,-68.92,Food,Expense
+2025-09-04,Gas,-41.27,Transport,Expense
+2025-09-05,Electric bill,-157.89,Utilities,Expense
+2025-09-06,Coffee,-6.10,Food,Expense
+2025-09-07,Restaurant,-36.54,Food,Expense
+2025-09-09,Streaming subscription,-15.99,Entertainment,Expense
+2025-09-10,Grocery run,-93.45,Food,Expense
+2025-09-12,Paycheck,3279.90,Salary,Income
+2025-09-13,Gas,-43.72,Transport,Expense
+2025-09-14,Game purchase,-29.99,Entertainment,Expense
+2025-09-15,Grocery run,-61.33,Food,Expense
+2025-09-16,Auto insurance,-112.38,Other,Expense
+2025-09-18,Restaurant,-27.81,Food,Expense
+2025-09-19,Household supplies,-33.20,Shopping,Expense
+2025-09-20,Gas,-39.88,Transport,Expense
+2025-09-21,Grocery run,-84.06,Food,Expense
+2025-09-22,Phone bill,-55.00,Utilities,Expense
+2025-09-24,Takeout,-19.64,Food,Expense
+2025-09-26,Paycheck,3338.11,Salary,Income
+2025-09-27,Car maintenance,-426.55,Other,Expense
+2025-09-28,Grocery run,-74.28,Food,Expense
+2025-09-29,Gas,-41.06,Transport,Expense
+2025-10-01,Rent,-1500.00,Rent,Expense
+2025-10-02,Internet,-69.99,Utilities,Expense
+2025-10-03,Grocery run,-89.07,Food,Expense
+2025-10-04,Gas,-45.19,Transport,Expense
+2025-10-05,Electric bill,-139.62,Utilities,Expense
+2025-10-06,Coffee,-5.65,Food,Expense
+2025-10-08,Restaurant,-44.13,Food,Expense
+2025-10-09,Streaming subscription,-15.99,Entertainment,Expense
+2025-10-10,Paycheck,3299.46,Salary,Income
+2025-10-11,Grocery run,-67.94,Food,Expense
+2025-10-12,Gas,-40.33,Transport,Expense
+2025-10-13,Clothes,-92.18,Shopping,Expense
+2025-10-14,Lunch,-11.95,Food,Expense
+2025-10-16,Gift,-35.00,Shopping,Expense
+2025-10-17,Grocery run,-98.52,Food,Expense
+2025-10-18,Gas,-43.91,Transport,Expense
+2025-10-20,Date night,-56.40,Entertainment,Expense
+2025-10-22,Phone bill,-55.00,Utilities,Expense
+2025-10-24,Paycheck,3256.73,Salary,Income
+2025-10-25,Grocery run,-72.31,Food,Expense
+2025-10-26,Gas,-41.58,Transport,Expense
+2025-10-27,Pharmacy,-21.09,Other,Expense
+2025-10-29,Online shopping,-63.77,Shopping,Expense
+2025-10-30,Grocery run,-84.95,Food,Expense
+2025-11-01,Rent,-1500.00,Rent,Expense
+2025-11-02,Internet,-69.99,Utilities,Expense
+2025-11-03,Grocery run,-77.88,Food,Expense
+2025-11-04,Gas,-39.74,Transport,Expense
+2025-11-05,Electric bill,-151.08,Utilities,Expense
+2025-11-06,Restaurant,-33.27,Food,Expense
+2025-11-07,Paycheck,3341.02,Salary,Income
+2025-11-08,Weekend outing,-24.90,Entertainment,Expense
+2025-11-09,Gas,-44.61,Transport,Expense
+2025-11-10,Grocery run,-95.23,Food,Expense
+2025-11-12,Coffee,-6.80,Food,Expense
+2025-11-13,Streaming subscription,-15.99,Entertainment,Expense
+2025-11-14,Household supplies,-29.41,Shopping,Expense
+2025-11-15,Grocery run,-68.17,Food,Expense
+2025-11-16,Auto insurance,-112.38,Other,Expense
+2025-11-18,Takeout,-23.55,Food,Expense
+2025-11-19,Gas,-41.12,Transport,Expense
+2025-11-21,Paycheck,3288.60,Salary,Income
+2025-11-22,Phone bill,-55.00,Utilities,Expense
+2025-11-23,Grocery run,-82.49,Food,Expense
+2025-11-24,Black Friday shopping,-187.34,Shopping,Expense
+2025-11-26,Travel weekend,-214.22,Other,Expense
+2025-11-28,Restaurant,-46.70,Food,Expense
+2025-11-30,Gas,-42.05,Transport,Expense
+2025-12-01,Rent,-1500.00,Rent,Expense
+2025-12-02,Internet,-69.99,Utilities,Expense
+2025-12-03,Grocery run,-91.36,Food,Expense
+2025-12-04,Electric bill,-168.55,Utilities,Expense
+2025-12-05,Paycheck,3369.14,Salary,Income
+2025-12-06,Gas,-44.28,Transport,Expense
+2025-12-07,Holiday gifts,-134.88,Shopping,Expense
+2025-12-08,Coffee,-5.85,Food,Expense
+2025-12-09,Streaming subscription,-15.99,Entertainment,Expense
+2025-12-10,Grocery run,-73.44,Food,Expense
+2025-12-12,Restaurant,-39.18,Food,Expense
+2025-12-13,Gas,-40.92,Transport,Expense
+2025-12-14,Movie night,-21.00,Entertainment,Expense
+2025-12-15,Grocery run,-97.21,Food,Expense
+2025-12-16,Car repair,-612.47,Other,Expense
+2025-12-18,Takeout,-27.63,Food,Expense
+2025-12-19,Paycheck,3315.49,Salary,Income
+2025-12-20,Phone bill,-55.00,Utilities,Expense
+2025-12-21,Gas,-43.37,Transport,Expense
+2025-12-22,Grocery run,-86.90,Food,Expense
+2025-12-23,Year-end bonus,450.00,Other,Income
+2025-12-24,Holiday dinner,-58.72,Food,Expense
+2025-12-26,Online shopping,-79.11,Shopping,Expense
+2025-12-28,Grocery run,-62.05,Food,Expense
+2025-12-30,New years outing,-48.25,Entertainment,Expense
